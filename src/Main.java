@@ -1,17 +1,3 @@
-//Demonstrate array creation:
-//With predefined size: new int[10]
-//With size defined in a variable: int[size]
-//Literal array creation: int[] arr = {1, 4, 2, ...}
-//Use different types for array elements (int, double, String, char, boolean).
-//Show use of array.length.
-//Set and access array elements by index:
-//Assign value to array element: a[4] = 45
-//Print array element value: ...println("5th element value: " + a[4])
-//Demonstrate error of accessing array element by non-existing index: a[1000]. Include screenshot of error.
-//Iterate over array (array traversal):
-//Use for loop to traverse an array.
-//Use the enhanced for loop to traverse array: for (int value : values) { ... }
-//Use while loop to traverse an array.
 public class Main {
     public static void printStr(String toPrint) {
         System.out.println(toPrint);
